@@ -1,0 +1,2 @@
+# BadThingNetwork
+Android初学
